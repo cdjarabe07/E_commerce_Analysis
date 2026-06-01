@@ -67,7 +67,6 @@ jupyter notebook
 
 ## Préparation des données
 
-* Échantillonnage de 10% du dataset
 * Suppression des valeurs nulles
 * Filtrage des quantités négatives (retours)
 * Suppression des prix nuls
